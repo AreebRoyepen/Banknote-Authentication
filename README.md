@@ -15,13 +15,21 @@ The project was a final year group project done for an intro course to machine l
 Run in order:
 
 group21_divide data
+
 group21_train_logreg
+
 group21_train_SVM
+
 group21_train_nn
+
 group21_test
+
 group21_demo
 
+
 Areeb Royeppen did the neural network
+
 Keelan Govender did the SVM
+
 Mulayo Tshivase did logistic regression
 
