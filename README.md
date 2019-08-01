@@ -10,7 +10,7 @@ The features are as follows:
 3.	Kurtosis of wavelet transformed image
 4.	Entropy of the image
 
-The project was a final year group project done for an intro course to machine learning and was based off of the Research Paper provided on this repository.
+The project was a first semester, final year group project done for an intro course to machine learning and was based off of the Research Paper provided on this repository. (concluded on 4/6/2019)
 
 Run in order:
 
